@@ -12,7 +12,7 @@ const seedEmployees: Employee[] = [
     name: "Aisha Mehta",
     role: "Operations Manager",
     department: "Operations",
-    email: "aisha@Ayusherp.com",
+    email: "aisha@erp.com",
     status: "Active",
   },
   {
@@ -20,7 +20,7 @@ const seedEmployees: Employee[] = [
     name: "Rohan Verma",
     role: "Finance Analyst",
     department: "Finance",
-    email: "rohan@Ayusherp.com",
+    email: "rohan@erp.com",
     status: "Active",
   },
   {
@@ -28,7 +28,7 @@ const seedEmployees: Employee[] = [
     name: "Sara Khan",
     role: "Procurement Lead",
     department: "Supply Chain",
-    email: "sara@Ayusherp.com",
+    email: "sara@erp.com",
     status: "Inactive",
   },
 ];
