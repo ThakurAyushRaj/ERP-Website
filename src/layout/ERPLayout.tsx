@@ -31,9 +31,9 @@ const ERPLayout = () => {
               </span>
               <div className="leading-none">
                 <p className={`text-[10px] font-semibold tracking-[0.2em] ${t.accentText}`}>
-                  Ayush
+                  ERP
                 </p>
-                <p className="text-sm font-bold text-white">ERP Suite</p>
+                <p className="text-sm font-bold text-white">ERP</p>
               </div>
             </Link>
           </div>
@@ -82,7 +82,7 @@ const ERPLayout = () => {
                   AS
                 </span>
               </Link>
-              <p className="font-semibold text-white">Ayush ERP</p>
+              <p className="font-semibold text-white">ERP</p>
             </div>
 
             <div className="flex items-center gap-3">

@@ -312,9 +312,6 @@ const Home = () => {
               A
             </span>
             <div className="leading-none">
-              <p className="text-[10px] font-semibold tracking-[0.2em] text-cyan-400">
-                Ayush
-              </p>
               <p className="text-sm font-bold text-white">ERP </p>
             </div>
           </Link>
@@ -446,7 +443,7 @@ const Home = () => {
               </h1>
 
               <p className="mt-6 max-w-lg text-lg leading-relaxed text-slate-400">
-                Ayush ERP unifies Finance, HR, Inventory, and Sales into one
+                ERP unifies Finance, HR, Inventory, and Sales into one
                 powerful frontend suite. Track operations in real-time and make
                 data-driven decisions — no backend required.
               </p>
@@ -504,7 +501,7 @@ const Home = () => {
     </div>
 
     <span className="rounded-full bg-white/5 px-3 py-0.5 text-xs text-slate-400 transition group-hover:text-cyan-300">
-      Ayush ERP / Dashboard
+       ERP / Dashboard
     </span>
 
     </div>
@@ -651,7 +648,7 @@ const Home = () => {
                 <span className="block text-slate-400">Modern Business</span>
               </h2>
               <p className="mt-4 leading-relaxed text-slate-400">
-                Ayush ERP brings together Finance, Human Resources, Inventory
+                 ERP brings together Finance, Human Resources, Inventory
                 Control, and Sales Operations into a unified, intelligent
                 platform. Eliminate data silos, manual processes, and scattered
                 spreadsheets.
@@ -819,7 +816,7 @@ const Home = () => {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
             <span className="mb-4 inline-block rounded-full border border-violet-500/30 bg-violet-500/10 px-3 py-1 text-xs font-semibold text-violet-400">
-              Why Ayush ERP
+              Why ERP
             </span>
             <h2 className="text-4xl font-black text-white">
               The ERP Advantage
@@ -901,7 +898,7 @@ const Home = () => {
 
       {/* Description */}
       <p className="relative mx-auto mt-5 max-w-xl text-slate-400">
-        Join businesses that trust Ayush ERP to organize data, automate
+        Join businesses that trust ERP to organize data, automate
         tasks, and drive growth — all from one powerful, real-time dashboard.
       </p>
 
@@ -947,10 +944,7 @@ const Home = () => {
                   NS
                 </span>
                 <div>
-                  <p className="text-[10px] font-semibold tracking-[0.2em] text-cyan-400">
-                    Ayush
-                  </p>
-                  <p className="text-sm font-bold text-white">ERP Suite</p>
+                  <p className="text-sm font-bold text-white">ERP </p>
                 </div>
               </div>
 
@@ -986,9 +980,9 @@ const Home = () => {
               </p>
               <ul className="space-y-2.5">
                 {[
-                  "Email: support@ayusherp.com",
+                  "Email: support@erp.com",
                   "Phone: +1 (123) 456-7890",
-                  "Address: 123 Ayush St, Tech City, TX",
+                  "Address: 123 ERP St, Tech City, TX",
                 ].map((contact) => (
                   <li key={contact} className="text-sm text-slate-500">
                     {contact}
@@ -999,7 +993,7 @@ const Home = () => {
           </div>
           <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/5 pt-8 sm:flex-row">
             <p className="text-sm text-slate-600">
-              © 2026 Ayush ERP. All rights reserved.
+              © 2026  ERP. All rights reserved.
             </p>
             <p className="text-sm text-slate-600">
                Ayush
